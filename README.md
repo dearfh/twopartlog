@@ -74,7 +74,7 @@ If you use `twopartlog` in your research or publications, please cite it as foll
 
 ```bibtex
 @software{twopartlog,
-  author = {Fedasa Hordofa, Dereje},
+  author = {Dereje Fedasa, Hordofa},
   title = {twopartlog: Two-Part Log Regression Model with Optimal Zero-Handling Constant for Independent Variables Containing Zeros},
   year = {2026},
   url = {https://github.com/dearfh/twopartlog}
