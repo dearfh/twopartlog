@@ -1,5 +1,5 @@
 *! twopartlog.ado - Two-Part Log Model with Optimal Zero-Handling Constant
-*! Version 1.1.0 - 2026
+*! Version 1.1.1 - 2026
 *! Methodology based on Lien, Hu, & Liu (2025, Applied Economics Letters)
 *! Author: Dereje Fedasa Hordofa, Dire Dawa University, Ethiopia
 
