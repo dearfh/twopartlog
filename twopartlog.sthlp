@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 1.1.1  22sep2026}{...}
+{* *! version 1.1.0  22sep2026}{...}
 {vieweralsosee "[R] regress" "help regress"}{...}
 {viewerjumpto "Syntax" "twopartlog##syntax"}{...}
 {viewerjumpto "Description" "twopartlog##description"}{...}
