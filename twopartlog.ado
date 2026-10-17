@@ -17,7 +17,7 @@ program define twopartlog, eclass
     di as text ""
     di as text "{hline 78}"
     di as text "{bf:twopartlog: Two-Part Log Regression with Optimal Zero Constant}"
-    di as text "{bf:Methodology: Lien, Hu, & Liu (2025) | Author: Dereje Fedasa}"
+    di as text "{bf:Methodology: Lien, Hu, & Liu (2025) | Author: Dereje Fedasa Hordofa}"
     di as text "{hline 78}"
     di as text "Dependent Variable (y):    " as result "`y'"
     di as text "Independent Var (x, 0s):   " as result "`x'"
