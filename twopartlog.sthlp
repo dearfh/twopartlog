@@ -1,5 +1,5 @@
 {smcl}
-{* *! version 1.1.0  22sep2026}{...}
+{* *! version 1.1.1  22sep2026}{...}
 {vieweralsosee "[R] regress" "help regress"}{...}
 {viewerjumpto "Syntax" "twopartlog##syntax"}{...}
 {viewerjumpto "Description" "twopartlog##description"}{...}
@@ -92,10 +92,13 @@
 {bf:Dereje Fedasa Hordofa}{break}
 Department of Economics{break}
 Dire Dawa University, Ethiopia{break}
-{email:derejefedasaa@gmail.com}{break}
+Email: {browse "mailto:derejefedasaa@gmail.com":derejefedasaa@gmail.com}{break}
 {p_end}
+
+
 {marker references}{...}
 {title:References}
 
 {phang}
 Lien, D., Hu, Y., and Liu, L. 2025. Taking logarithm when the independent variable contains zeros in regression analysis: a new approach. {it:Applied Economics Letters} 32(5): 630–636.
+{p_end}
