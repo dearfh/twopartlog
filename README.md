@@ -80,3 +80,11 @@ If you use `twopartlog` in your research or publications, please cite it as foll
   url = {https://github.com/dearfh/twopartlog}
 }
 
+## Contributing
+Contributions, bug reports, and feature requests are welcome! Please feel free to open an issue or submit a pull request on GitHub.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+## References
+Lien, D., Hu, Y., & Liu, L. (2025). Taking logarithm when the independent variable contains zeros in regression analysis: a new approach. Applied Economics Letters, 32(5), 630–636.
+Duan, N. (1983). Smearing estimate: A nonparametric retransformation method. Journal of the American Statistical Association, 78(383), 605–610.
+Norton, E. C. (2022). The inverse hyperbolic sine transformation and retransformed marginal effects. The Stata Journal, 22(3), 702–712.
