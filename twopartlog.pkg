@@ -1,0 +1,10 @@
+v 3
+d 'TWOPARTLOG': Module to estimate two-part log regression with an optimal zero-handling constant
+d 
+d Author: Dereje Fedasa Hordofa, Dire Dawa University
+d Support: derejefedasaa@gmail.com
+d Distribution-Date: 20260922
+d License: MIT
+d
+f twopartlog.ado
+f twopartlog.sthlp
