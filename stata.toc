@@ -1,3 +1,3 @@
-v 3
+v 1.1.0
 d Dereje Fedasa Hordofa, Dire Dawa University
 p twopartlog Two-Part Log Regression Model with Optimal Zero-Handling Constant
